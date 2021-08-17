@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Shooting and processing the Wizard Nebula (NGC 7380)
 
-You can use the [editor on GitHub](https://github.com/regele-mihai/starwalking/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Gear
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ - EQ3-2 motorized mount
+ - SkyWatcher Black Diamond NEQ3 150/750 Newtonian
+ - Orion SSAG camera + 50mm guidescope
+ - Nikon D5600 astromodified camera
+ - Motorized focuser
+ - Laptop with Astrophotography Tool and PHD 2
 
-### Markdown
+## Setup
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I went outside to install my telescope and collimate at about 21:00. The sun was slowly setting, making it a bit hard to align my secondary mirror. After that, collimation was a breeze as I am using a laser collimator.
 
-```markdown
-Syntax highlighted code block
+I connected all my gear, then waited for nightfall.
 
-# Header 1
-## Header 2
-### Header 3
+When the Big Dipper started being visible I polar aligned my scope and used my finderscope to point it in the rough neightborhood of the nebula. I used Delta Cephei and Zeta Cephei as visible guides.
 
-- Bulleted
-- List
+![Nebula location](nebula_location.png)
 
-1. Numbered
-2. List
+Afterwards I used plate solving to center my scope on the target. I changed the finder scope to the guiding one and set up PHD 2. Its calibration process moved the target a bit, and I repositioned it, taking into account the fact that the edges of my field look a bit weird due to the lack of a flattener.
 
-**Bold** and _Italic_ and `Code` text
+## Data acquisition
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/regele-mihai/starwalking/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I set up a lights plan in APT. The length for each exposure was 60s, with dithering in between. 
