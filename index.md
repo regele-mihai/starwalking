@@ -46,3 +46,14 @@ I planned to capture more lights but unfortunately my telescope got stuck when t
 
 ## Data processing
 
+I used DeepSkyStacker with its recommended settings to stack all my frames. Below is the final result. The image looks quite red because of the absence of an IR cut filter for my camera. Another problem are the out of focus stars, this was caused by my camera being too far away from the focuser. 
+
+![Final stack](FinalNebula.jpg)
+
+However, considering the small amount of data (~1h) and short exposure times I think it turned out pretty well.
+
+## Final Result
+
+I followed AstroBackyard's processing tutorial - [[https://www.youtube.com/watch?v=5GgruZ-1zQ0]], and after a couple of hours of work I ended up with this beauty:
+
+![Final result](DSS_Final.jpg)
