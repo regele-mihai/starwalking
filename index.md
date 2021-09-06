@@ -1,7 +1,7 @@
 # StarWalking
 
 ## Walks
- - [![Shooting the Wizard Nebula](DSS_Final.jpg)](https://regele-mihai.github.io/starwalking/wizard_nebula)
+ - [Shooting the Wizard Nebula](https://regele-mihai.github.io/starwalking/wizard_nebula)
 
 ## About Me
 
