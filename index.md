@@ -2,7 +2,6 @@
 
 ## Walks
 
- - [Shooting and editing the Wizard Nebula]({% post_url wizard_nebula %})
 
 ## About Me
 
